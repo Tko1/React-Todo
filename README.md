@@ -6,10 +6,6 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 ## Table of Contents
 
 * [Nothing](#Nothing)
-* [Troubleshooting](#troubleshooting)
-  * [Networking](#networking)
-  * [iOS Simulator won't open](#ios-simulator-wont-open)
-  * [QR Code does not scan](#qr-code-does-not-scan)
 
 ## Nothing
 
